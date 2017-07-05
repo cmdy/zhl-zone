@@ -1,2 +1,2 @@
-FROM  quay.io/coreos/etcd:v3.0.7
+FROM  gcr.io/google_containers/hyperkube-amd64:v1.6.4
 MAINTAINER  zhanglin
