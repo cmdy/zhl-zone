@@ -1,2 +1,2 @@
-FROM  gcr.io/google_containers/hyperkube-amd64:v1.6.4
-MAINTAINER  zhanglin
+FROM  coredns/coredns:latest
+MAINTAINER  zhanglin<zhang_lin66@foxmail.com>
